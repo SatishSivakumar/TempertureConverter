@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temp Converter</string>
+    <string name="action_settings">Settings</string>
+    <color name="myColor">#FFE4E1</color>
+    <string name="Celsius">To Celsius</string>
+    <string name="Farenheit">To Farenheit</string>
+    <string name="Calc">Calculate</string>
+</resources>
